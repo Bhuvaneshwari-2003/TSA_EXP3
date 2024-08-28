@@ -34,7 +34,8 @@ plt.show()
 ```
 
 ### OUTPUT:
-![image](https://github.com/user-attachments/assets/85b540a1-f060-4c5a-8930-add9cd69394f)
+![image](https://github.com/user-attachments/assets/be0be993-9154-4c74-9c2a-3bb8d727f0d1)
+
 
 
 ### RESULT:
